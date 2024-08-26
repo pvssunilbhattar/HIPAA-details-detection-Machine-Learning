@@ -1,0 +1,1 @@
+[{"Text":"heloo hi","Prediction":"No HIPAA Data Detected"},{"Text":"Patient John Doe's medical records show a diagnosis of diabetes. His patient ID is 123456789, and his social security number is 987-65-4321.","Prediction":"HIPAA Data Detected"},{"Text":"health","Prediction":"HIPAA Data Detected"}]

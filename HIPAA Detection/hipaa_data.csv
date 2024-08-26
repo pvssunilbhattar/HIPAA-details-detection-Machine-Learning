@@ -1,0 +1,414 @@
+message,label
+Patient John Doe visited the clinic on July 10.,1
+Mary's blood test results came back positive.,1
+Meeting scheduled for project update.,0
+Discussing new marketing strategies for the next quarter.,0
+Mr. Smith's prescription has been renewed.,1
+Annual check-up results for Sarah are ready.,1
+Team lunch scheduled for Friday.,0
+New project guidelines released by management.,0
+The patient's MRI results indicate a need for further examination.,1
+Quarterly financial review meeting next week.,0
+Mr. Lee's medication needs to be adjusted.,1
+Team building activity planned for next month.,0
+The laboratory results for Mr. Green are abnormal.,1
+Client meeting to discuss the new proposal.,0
+Jane's vaccination records are up-to-date.,1
+Discussing the upcoming company retreat.,0
+The surgery for Mrs. White was successful.,1
+Planning the next marketing campaign.,0
+The patient's X-ray shows a fracture in the left arm.,1
+Annual performance review process has begun.,0
+The patient needs a follow-up appointment.,1
+Department meeting scheduled for tomorrow.,0
+The patient's biopsy results confirm the diagnosis.,1
+New software update will be rolled out next week.,0
+The patient's ECG shows irregular heartbeat patterns.,1
+Weekly team meeting rescheduled to Thursday.,0
+The patient's blood pressure is within normal range.,1
+Brainstorming session for the new product launch.,0
+The patient's ultrasound indicates no abnormalities.,1
+Office party planned for the end of the month.,0
+Patient confidentiality must be maintained at all times.,1
+Discussing the new office layout.,0
+Patient Jane Doe has been admitted for observation.,1
+Team members are encouraged to submit their ideas.,0
+The patient's lab tests need to be repeated.,1
+Planning the next team outing.,0
+The patient's treatment plan needs to be updated.,1
+Staff meeting to discuss operational changes.,0
+Patient's allergy test results are negative.,1
+Reviewing the quarterly performance metrics.,0
+The patient's diagnosis is confirmed by multiple tests.,1
+Preparing for the annual company meeting.,0
+Patient's vital signs are stable.,1
+Discussing the budget allocation for next year.,0
+The patient's recovery is progressing well.,1
+Planning the office renovation project.,0
+The patient's medical history is reviewed.,1
+Department lunch outing planned for next week.,0
+Patient's symptoms suggest a possible infection.,1
+Preparing the monthly sales report.,0
+The patient's health records are updated.,1
+Brainstorming ideas for the new campaign.,0
+The patient's condition requires immediate attention.,1
+Staff training session scheduled for Monday.,0
+The patient's treatment has been effective.,1
+Organizing the annual company picnic.,0
+Patient's lab results indicate high cholesterol levels.,1
+Discussing the new HR policies.,0
+The patient's follow-up visit is scheduled.,1
+Planning the next team meeting agenda.,0
+The patient's prescription needs to be renewed.,1
+Office hours will be adjusted next month.,0
+The patient's CT scan shows improvement.,1
+Team members should complete the survey by Friday.,0
+The patient's surgery is scheduled for next week.,1
+Discussing the project deadlines.,0
+The patient's condition is stable and improving.,1
+Preparing the annual budget report.,0
+The patient's biopsy results are normal.,1
+Team members are encouraged to participate.,0
+The patient's X-ray shows no signs of fracture.,1
+Department meeting to discuss new initiatives.,0
+The patient's test results are inconclusive.,1
+Planning the office holiday party.,0
+The patient's treatment plan includes physical therapy.,1
+Reviewing the company's strategic goals.,0
+The patient's medical records are confidential.,1
+Organizing the next team-building activity.,0
+The patient's ECG shows no abnormalities.,1
+Planning the quarterly business review.,0
+The patient's MRI scan shows no issues.,1
+Discussing the upcoming product launch.,0
+The patient's blood tests are within normal range.,1
+Scheduling the next department meeting.,0
+The patient's ultrasound confirms the diagnosis.,1
+Brainstorming session for the marketing team.,0
+The patient's recovery plan includes diet changes.,1
+Preparing for the annual shareholder meeting.,0
+The patient's health is improving steadily.,1
+Discussing the new office policies.,0
+The patient's lab results require further analysis.,1
+Team members are invited to the workshop.,0
+The patient's surgery was a success.,1
+Planning the next training session.,0
+The patient's diagnosis is being reviewed.,1
+Department lunch meeting scheduled for Friday.,0
+The patient's symptoms are under control.,1
+Preparing the monthly financial report.,0
+The patient's treatment includes medication and rest.,1
+Discussing the new client proposal.,0
+The patient's X-ray indicates a possible fracture.,1
+Scheduling the annual performance reviews.,0
+The patient's follow-up visit is tomorrow.,1
+Team members should submit their reports by Monday.,0
+The patient's MRI shows signs of improvement.,1
+Organizing the next office event.,0
+The patient's condition requires monitoring.,1
+Discussing the project timeline.,0
+The patient's biopsy results are being analyzed.,1
+Planning the next company retreat.,0
+The patient's blood tests are normal.,1
+Reviewing the department's performance metrics.,0
+The patient's treatment includes regular check-ups.,1
+Preparing for the annual company review.,0
+The patient's health is stable.,1
+Discussing the budget for next year.,0
+The patient's lab results indicate no issues.,1
+Organizing the next team meeting.,0
+The patient's ECG is normal.,1
+Scheduling the monthly staff meeting.,0
+The patient's ultrasound shows no abnormalities.,1
+Brainstorming session for the new project.,0
+The patient's recovery is progressing well.,1
+Preparing the quarterly financial report.,0
+The patient's diagnosis has been confirmed.,1
+Discussing the new marketing plan.,0
+The patient's treatment has been successful.,1
+Planning the next office renovation.,0
+The patient's medical records need updating.,1
+Organizing the next company event.,0
+The patient's symptoms are improving.,1
+Reviewing the company's performance metrics.,0
+The patient's surgery is scheduled for tomorrow.,1
+Preparing for the monthly sales meeting.,0
+The patient's condition is being monitored.,1
+Discussing the new office layout.,0
+The patient's test results are positive.,1
+Planning the next training session.,0
+The patient's recovery plan includes medication.,1
+Reviewing the annual budget.,0
+The patient's health is being monitored closely.,1
+Organizing the next team-building event.,0
+The patient's treatment plan is working.,1
+Scheduling the department meeting.,0
+The patient's diagnosis is being confirmed.,1
+Preparing for the quarterly review.,0
+The patient's lab results are normal.,1
+Discussing the upcoming company event.,0
+The patient's treatment includes physical therapy.,1
+Reviewing the company's strategic goals.,0
+The patient's health records are updated.,1
+Planning the next office party.,0
+The patient's MRI shows improvement.,1
+Discussing the project deadlines.,0
+The patient's blood tests are normal.,1
+Scheduling the next department meeting.,0
+The patient's ultrasound confirms the diagnosis.,1
+Brainstorming session for the new campaign.,0
+The patient's recovery plan includes diet changes.,1
+Preparing for the annual shareholder meeting.,0
+The patient's health is improving steadily.,1
+Discussing the new office policies.,0
+The patient's lab results require further analysis.,1
+Team members are invited to the workshop.,0
+The patient's surgery was a success.,1
+Planning the next training session.,0
+The patient's diagnosis is being reviewed.,1
+Department lunch meeting scheduled for Friday.,0
+The patient's symptoms are under control.,1
+Preparing the monthly financial report.,0
+The patient's treatment includes medication and rest.,1
+Discussing the new client proposal.,0
+The patient's X-ray indicates a possible fracture.,1
+Scheduling the annual performance reviews.,0
+The patient's follow-up visit is tomorrow.,1
+Team members should submit their reports by Monday.,0
+The patient's MRI shows signs of improvement.,1
+Organizing the next office event.,0
+The patient's condition requires monitoring.,1
+Discussing the project timeline.,0
+The patient's biopsy results are being analyzed.,1
+Planning the next company retreat.,0
+The patient's blood tests are normal.,1
+Reviewing the department's performance metrics.,0
+The patient's treatment includes regular check-ups.,1
+Preparing for the annual company review.,0
+The patient's health is stable.,1
+Discussing the budget for next year.,0
+The patient's lab results indicate no issues.,1
+Organizing the next team meeting.,0
+The patient's ECG is normal.,1
+Scheduling the monthly staff meeting.,0
+The patient's ultrasound shows no abnormalities.,1
+Brainstorming session for the new project.,0
+The patient's recovery is progressing well.,1
+Preparing the quarterly financial report.,0
+The patient's diagnosis has been confirmed.,1
+Discussing the new marketing plan.,0
+The patient's treatment has been successful.,1
+Planning the next office renovation.,0
+The patient's medical records need updating.,1
+Organizing the next company event.,0
+The patient's symptoms are improving.,1
+Reviewing the company's performance metrics.,0
+The patient's surgery is scheduled for tomorrow.,1
+Preparing for the monthly sales meeting.,0
+The patient's condition is being monitored.,1
+Discussing the new office layout.,0
+The patient's test results are positive.,1
+Planning the next training session.,0
+The patient's recovery plan includes medication.,1
+Reviewing the annual budget.,0
+The patient's health is being monitored closely.,1
+Organizing the next team-building event.,0
+The patient's treatment plan is working.,1
+Scheduling the department meeting.,0
+The patient's diagnosis is being confirmed.,1
+Preparing for the quarterly review.,0
+The patient's lab results are normal.,1
+Discussing the upcoming company event.,0
+The patient's treatment includes physical therapy.,1
+Reviewing the company's strategic goals.,0
+The patient's health records are updated.,1
+Planning the next office party.,0
+The patient's MRI shows improvement.,1
+Discussing the project deadlines.,0
+The patient's blood tests are normal.,1
+Scheduling the next department meeting.,0
+The patient's ultrasound confirms the diagnosis.,1
+Brainstorming session for the new campaign.,0
+The patient's recovery plan includes diet changes.,1
+Preparing for the annual shareholder meeting.,0
+The patient's health is improving steadily.,1
+Discussing the new office policies.,0
+The patient's lab results require further analysis.,1
+Team members are invited to the workshop.,0
+The patient's surgery was a success.,1
+Planning the next training session.,0
+The patient's diagnosis is being reviewed.,1
+Department lunch meeting scheduled for Friday.,0
+The patient's symptoms are under control.,1
+Preparing the monthly financial report.,0
+The patient's treatment includes medication and rest.,1
+Discussing the new client proposal.,0
+The patient's X-ray indicates a possible fracture.,1
+Scheduling the annual performance reviews.,0
+The patient's follow-up visit is tomorrow.,1
+Team members should submit their reports by Monday.,0
+The patient's MRI shows signs of improvement.,1
+Organizing the next office event.,0
+The patient's condition requires monitoring.,1
+Discussing the project timeline.,0
+The patient's biopsy results are being analyzed.,1
+Planning the next company retreat.,0
+The patient's blood tests are normal.,1
+Reviewing the department's performance metrics.,0
+The patient's treatment includes regular check-ups.,1
+Preparing for the annual company review.,0
+The patient's health is stable.,1
+Discussing the budget for next year.,0
+The patient's lab results indicate no issues.,1
+Organizing the next team meeting.,0
+The patient's ECG is normal.,1
+Scheduling the monthly staff meeting.,0
+The patient's ultrasound shows no abnormalities.,1
+Brainstorming session for the new project.,0
+The patient's recovery is progressing well.,1
+Preparing the quarterly financial report.,0
+The patient's diagnosis has been confirmed.,1
+Discussing the new marketing plan.,0
+The patient's treatment has been successful.,1
+Planning the next office renovation.,0
+The patient's medical records need updating.,1
+Organizing the next company event.,0
+The patient's symptoms are improving.,1
+Reviewing the company's performance metrics.,0
+The patient's surgery is scheduled for tomorrow.,1
+Preparing for the monthly sales meeting.,0
+The patient's condition is being monitored.,1
+Discussing the new office layout.,0
+The patient's test results are positive.,1
+Planning the next training session.,0
+The patient's recovery plan includes medication.,1
+Reviewing the annual budget.,0
+The patient's health is being monitored closely.,1
+Organizing the next team-building event.,0
+The patient's treatment plan is working.,1
+Scheduling the department meeting.,0
+The patient's diagnosis is being confirmed.,1
+Preparing for the quarterly review.,0
+The patient's lab results are normal.,1
+Discussing the upcoming company event.,0
+The patient's treatment includes physical therapy.,1
+Reviewing the company's strategic goals.,0
+The patient's health records are updated.,1
+Planning the next office party.,0
+The patient's MRI shows improvement.,1
+Discussing the project deadlines.,0
+The patient's blood tests are normal.,1
+Scheduling the next department meeting.,0
+The patient's ultrasound confirms the diagnosis.,1
+Brainstorming session for the new campaign.,0
+The patient's recovery plan includes diet changes.,1
+Preparing for the annual shareholder meeting.,0
+The patient's health is improving steadily.,1
+Discussing the new office policies.,0
+The patient's lab results require further analysis.,1
+Team members are invited to the workshop.,0
+The patient's surgery was a success.,1
+Planning the next training session.,0
+The patient's diagnosis is being reviewed.,1
+Department lunch meeting scheduled for Friday.,0
+The patient's symptoms are under control.,1
+Preparing the monthly financial report.,0
+The patient's treatment includes medication and rest.,1
+Discussing the new client proposal.,0
+The patient's X-ray indicates a possible fracture.,1
+Scheduling the annual performance reviews.,0
+The patient's follow-up visit is tomorrow.,1
+Team members should submit their reports by Monday.,0
+The patient's MRI shows signs of improvement.,1
+Organizing the next office event.,0
+The patient's condition requires monitoring.,1
+Discussing the project timeline.,0
+The patient's biopsy results are being analyzed.,1
+Planning the next company retreat.,0
+The patient's blood tests are normal.,1
+Reviewing the department's performance metrics.,0
+The patient's treatment includes regular check-ups.,1
+Preparing for the annual company review.,0
+The patient's health is stable.,1
+Discussing the budget for next year.,0
+The patient's lab results indicate no issues.,1
+Organizing the next team meeting.,0
+The patient's ECG is normal.,1
+Scheduling the monthly staff meeting.,0
+The patient's ultrasound shows no abnormalities.,1
+Brainstorming session for the new project.,0
+The patient's recovery is progressing well.,1
+Preparing the quarterly financial report.,0
+The patient's diagnosis has been confirmed.,1
+Discussing the new marketing plan.,0
+The patient's treatment has been successful.,1
+Planning the next office renovation.,0
+The patient's medical records need updating.,1
+Organizing the next company event.,0
+The patient's symptoms are improving.,1
+Reviewing the company's performance metrics.,0
+The patient's surgery is scheduled for tomorrow.,1
+Preparing for the monthly sales meeting.,0
+The patient's condition is being monitored.,1
+Discussing the new office layout.,0
+The patient's test results are positive.,1
+Planning the next training session.,0
+The patient's recovery plan includes medication.,1
+Reviewing the annual budget.,0
+The patient's health is being monitored closely.,1
+Organizing the next team-building event.,0
+The patient's treatment plan is working.,1
+Scheduling the department meeting.,0
+The patient's diagnosis is being confirmed.,1
+Preparing for the quarterly review.,0
+The patient's lab results are normal.,1
+Discussing the upcoming company event.,0
+The patient's treatment includes physical therapy.,1
+Reviewing the company's strategic goals.,0
+The patient's health records are updated.,1
+Planning the next office party.,0
+The patient's MRI shows improvement.,1
+Discussing the project deadlines.,0
+The patient's blood tests are normal.,1
+Scheduling the next department meeting.,0
+The patient's ultrasound confirms the diagnosis.,1
+Brainstorming session for the new campaign.,0
+The patient's recovery plan includes diet changes.,1
+Preparing for the annual shareholder meeting.,0
+The patient's health is improving steadily.,1
+Discussing the new office policies.,0
+The patient's lab results require further analysis.,1
+Team members are invited to the workshop.,0
+The patient's surgery was a success.,1
+Planning the next training session.,0
+The patient's diagnosis is being reviewed.,1
+Department lunch meeting scheduled for Friday.,0
+The patient's symptoms are under control.,1
+Preparing the monthly financial report.,0
+The patient's treatment includes medication and rest.,1
+Discussing the new client proposal.,0
+The patient's X-ray indicates a possible fracture.,1
+Scheduling the annual performance reviews.,0
+The patient's follow-up visit is tomorrow.,1
+Team members should submit their reports by Monday.,0
+The patient's MRI shows signs of improvement.,1
+Organizing the next office event.,0
+The patient's condition requires monitoring.,1
+Discussing the project timeline.,0
+The patient's biopsy results are being analyzed.,1
+Planning the next company retreat.,0
+The patient's blood tests are normal.,1
+Reviewing the department's performance metrics.,0
+The patient's treatment includes regular check-ups.,1
+Preparing for the annual company review.,0
+The patient's health is stable.,1
+Discussing the budget for next year.,0
+The patient's lab results indicate no issues.,1
+Organizing the next team meeting.,0
+The patient's ECG is normal.,1
+Scheduling the monthly staff meeting.,0
+The patient's ultrasound shows no abnormalities.,1
+Brainstorming session for the new project.,0
+The patient's recovery is progressing well.,1
+Preparing the quarterly financial report.,0
+The patient's diagnosis has been confirmed.,1
