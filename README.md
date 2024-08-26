@@ -1,1 +1,2 @@
 # HIPAA-details-detection
+This project aims to detect HIPAA-sensitive information in text messages using machine learning techniques. The project follows a structured approach, from data preparation and preprocessing to model training, evaluation, and integration with a NoSQL database for storing predictions. The primary goal is to build a robust model capable of accurately identifying HIPAA-sensitive content and ensuring predictions are accessible for further analysis or integration with other systems.
